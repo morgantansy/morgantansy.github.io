@@ -1,7 +1,31 @@
+/* Global */
+
 img {width:50% 
 }
 
+body {background: cornflowerblue;
 
-body{background: cornflowerblue;
+}  
+
+/* Layout */
+
+
+
+/* Typography */
+
+/* Navigation */
+
+a {
+background: red;
+    border-radius: 50px;
+    display: block;
+    height: 100px;
+    width: 100px;
+    
+}
+
+li {
+
+    display: inline-block;
 
 }
