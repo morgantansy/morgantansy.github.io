@@ -3,9 +3,14 @@
 img {width:50% 
 }
 
-body {background: cornflowerblue;
+body {background-image: url('tree_bark.png');
 
 }  
+h1{
+    font-family: 'Quicksand', sans-serif;
+}
+
+
 
 /* Layout */
 
@@ -16,7 +21,7 @@ body {background: cornflowerblue;
 /* Navigation */
 
 a {
-background: red;
+background: 
     border-radius: 50px;
     display: block;
     height: 100px;
