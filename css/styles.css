@@ -18,6 +18,10 @@ h1{
 
 /* Typography */
 
+h1 {
+text-align: center;
+}
+
 /* Navigation */
 
 a {
@@ -34,3 +38,8 @@ li {
     display: inline-block;
 
 }
+
+
+
+/* Photos */
+
